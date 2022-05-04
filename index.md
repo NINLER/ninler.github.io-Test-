@@ -8,4 +8,6 @@ Sounds like this:
 \int x^ndx=\frac1{n+1}x^{n+1}+C
 ```
 
-My First Blog:[Link](\ProblemSolution\TestingFile.md)
+My First Blog: [Link](\ProblemSolution\TestingFile.md)
+
+Testing LaTeX: ![](http://latex.codecogs.com/gif.latex?\sqrt[n]{x}=x^{\frac1n}}
