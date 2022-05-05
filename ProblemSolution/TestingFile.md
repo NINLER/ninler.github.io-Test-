@@ -2,4 +2,4 @@
 
 ---
 
-![](http://latex.codecogs.com/gif.latex?\int{x^ndx}=\frac1{n+1}x^{n+1}+C)
+![](http://latex.codecogs.com/gif.latex?\int{x^ndx}=\frac1{n+1}x^{n+1}+C) 
