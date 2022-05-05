@@ -10,4 +10,4 @@ Sounds like this:
 
 My First Blog: [Link](\ProblemSolution\TestingFile.md)
 
-Testing LaTeX: ![](http://latex.codecogs.com/gif.latex?\sqrt[n]{x}=x^{\frac1n})
+Testing LaTeX: ![](http://latex.codecogs.com/gif.latex?\sqrt[n]{x}=x^{\frac1n}) 
