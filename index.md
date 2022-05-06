@@ -27,3 +27,5 @@ https://latex.codecogs.com
 ```
 
 And it looks like this:![](\Images\latex-2.png)
+
+Can I use LaTeX ? $\intx^2dx=\frac13x^3+C$
