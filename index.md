@@ -14,4 +14,4 @@ And you can use LaTeX by going to this website:
 https://latex.codecogs.com
 ```
 
-And it looks like this:![](\Images\latex-1.png)
+And it looks like this:![](\Images\latex-2.png)
