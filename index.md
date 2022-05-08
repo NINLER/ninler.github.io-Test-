@@ -26,6 +26,6 @@ And you can use LaTeX by going to this website:
 https://latex.codecogs.com
 ```
 
-And it looks like this:![](\Images\latex-2.png)
+And it looks like this:![](\Images\latex-2.png=#pic_center)
 
 Can I use LaTeX ? $\int x^2dx=\frac13x^3+C$
