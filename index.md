@@ -22,4 +22,4 @@ And it looks like this:![](\Images\latex-2.png)
 
 Can I use LaTeX ? $\int x^2dx=\frac13x^3+C$
 
-[Link To Problem Solution](\ProblemSolution\index.md)
+[Link To Problem Solution](\ProblemSolution\index)
