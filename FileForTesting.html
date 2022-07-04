@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        .div1
+        {
+            width: 80%;
+            height: 20px;
+            border: 1px solid black;
+        }
+
+        #line
+        {
+            background-color: greenyellow;
+            float: left;
+            color: black;
+            text-align: center;
+        }
+    </style>
+</head>
+<div class="div1">
+    <strong id="line"></strong>
+</div>
+<script type="text/javascript">
+    for(let i=0; i<=100; i++)
+    {
+        setTimeout(function()
+        {
+            line.style.width=i+"%"
+            line.innerHTML=i+"%"
+        },i*1000)
+    }
+</script>
+</html>
