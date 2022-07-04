@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+
+<head>
+     
+</head>
+
 <table width="600" border="2" background='https://p1.ssl.qhimgs1.com/sdr/400__/t01f04c2504aa62bab7.gif'>
     <tr align="center">
         <th> 编号 </th>
@@ -15,3 +21,10 @@
         <td>女</td>
     </tr>
 </table>
+
+---
+
+<script>
+    
+</script>
+</html>
